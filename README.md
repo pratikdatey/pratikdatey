@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Heyy! Nice to see you.</h1>
-<h1 align="center">I'm Pratik Datey</h1>
+<h1 align="center">I'm Pratik Datey.</h1>
 
 <h3 align="center">As a Data Scientist with 2 years of experience, my passion lies in utilizing data to drive business value and innovation. I strive to continuously improve my skills in Data Analytics, Machine Learning, and Artificial Intelligence to deliver the best possible results for organization.</h3>
 
@@ -53,7 +53,7 @@
 
 
 
-## Programming languages 👨‍💻 :
+## Programming languages :
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-5391FE?logo=python&logoColor=white">
