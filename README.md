@@ -10,7 +10,7 @@
 <p>
   <a href="https://www.linkedin.com/in/pratikdatey/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:pratikvdatey@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-  <a href="https://www.instagram.com/pratik_d_007_//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.instagram.com/pratik_d_007_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
    
 </p>
 
