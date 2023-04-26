@@ -18,23 +18,23 @@
 ## Data Science Skills :
 
 <p>
-    <img alt="MachineLearning" src="https://img.shields.io/badge/Machine Learning-5391FE?logo=MachineLearning&logoColor=white">
-    <img alt="DeepLearning" src="https://custom-icon-badges.herokuapp.com/badge/Deep Learning-025E8C.svg?logo=database&logoColor=white">
-    <img alt="Computer Vision" src="https://custom-icon-badges.herokuapp.com/badge/Computer Vision-indigo.svg?&logoColor=white">
-    <img alt="NLP" src="https://custom-icon-badges.herokuapp.com/badge/NLP-cream.svg?&logoColor=white">
-    <img alt="Time Series Analysis" src="https://custom-icon-badges.herokuapp.com/badge/Time Series Analysis-darkgreen.svg?&logoColor=white">
-    <img alt="Web Scraping" src="https://img.shields.io/badge/Web Scraping-white?logo=CI/CD&logoColor=white">
-    <img alt="End-to-End Machine Learning Models" src="https://custom-icon-badges.herokuapp.com/badge/End to End Machine Learning-green.svg?&logoColor=white">
-    <img alt="Data Preprocessing" src="https://custom-icon-badges.herokuapp.com/badge/Data Preprocessing-yellow.svg?&logoColor=white">
-    <img alt="DataAnalysis" src="https://custom-icon-badges.herokuapp.com/badge/Data Analysis-skyblue.svg?l&logoColor=white">
-    <img alt="Data Visualization" src="https://custom-icon-badges.herokuapp.com/badge/Data Visualization-lightblue.svg?&logoColor=white">
+    <img alt="MachineLearning" src="https://img.shields.io/badge/Machine Learning-skyblue?logo=MachineLearning&logoColor=white">
+    <img alt="DeepLearning" src="https://custom-icon-badges.herokuapp.com/badge/Deep Learning-skyblue.svg?logo=&logoColor=white">
+    <img alt="Computer Vision" src="https://custom-icon-badges.herokuapp.com/badge/Computer Vision-skyblue.svg?&logoColor=white">
+    <img alt="NLP" src="https://custom-icon-badges.herokuapp.com/badge/NLP-skyblue.svg?&logoColor=white">
+    <img alt="Time Series Analysis" src="https://custom-icon-badges.herokuapp.com/badge/Time Series Analysis-skyblue.svg?&logoColor=white">
+    <img alt="Web Scraping" src="https://img.shields.io/badge/Web Scraping-skyblue?logo=CI/CD&logoColor=white">
+    <img alt="End-to-End Machine Learning Models" src="https://custom-icon-badges.herokuapp.com/badge/End to End Machine Learning-blue.svg?&logoColor=white">
+    <img alt="Data Preprocessing" src="https://custom-icon-badges.herokuapp.com/badge/Data Preprocessing-blue.svg?&logoColor=white">
+    <img alt="DataAnalysis" src="https://custom-icon-badges.herokuapp.com/badge/Data Analysis-blue.svg?l&logoColor=white">
+    <img alt="Data Visualization" src="https://custom-icon-badges.herokuapp.com/badge/Data Visualization-blue.svg?&logoColor=white">
     <img alt="Data Mining" src="https://custom-icon-badges.herokuapp.com/badge/Data Mining-blue.svg?&logoColor=white">
-    <img alt="EDA" src="https://custom-icon-badges.herokuapp.com/badge/EDA-pink.svg?&logoColor=white">
-    <img alt="Regression" src="https://custom-icon-badges.herokuapp.com/badge/Regression-lightyellow.svg?&logoColor=white">
-    <img alt="Classification" src="https://custom-icon-badges.herokuapp.com/badge/Classification-grey.svg?&logoColor=white">
-    <img alt="Clustering" src="https://custom-icon-badges.herokuapp.com/badge/Clustering-black.svg?&logoColor=white">
-    <img alt="Ensemble Techniques" src="https://custom-icon-badges.herokuapp.com/badge/Ensemble Techniques-red.svg?&logoColor=white">
-    <img alt="Docker" src="https://custom-icon-badges.herokuapp.com/badge/Docker-025E8C.svg?&logoColor=white">
+    <img alt="EDA" src="https://custom-icon-badges.herokuapp.com/badge/EDA-blue.svg?&logoColor=white">
+    <img alt="Regression" src="https://custom-icon-badges.herokuapp.com/badge/Regression-darkblue.svg?&logoColor=white">
+    <img alt="Classification" src="https://custom-icon-badges.herokuapp.com/badge/Classification-darkblue.svg?&logoColor=white">
+    <img alt="Clustering" src="https://custom-icon-badges.herokuapp.com/badge/Clustering-darkblue.svg?&logoColor=white">
+    <img alt="Ensemble Techniques" src="https://custom-icon-badges.herokuapp.com/badge/Ensemble Techniques-darkblue.svg?&logoColor=white">
+    <img alt="Docker" src="https://custom-icon-badges.herokuapp.com/badge/Docker-darkblue.svg?&logoColor=white">
     
 
     
