@@ -115,7 +115,6 @@
 
 <p  align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikdatey&" alt="Pratik Datey" /> </p>
 
-<p align="center" >  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pratikdatey&show_icons=true&locale=en&theme=radical" alt="pratikdatey" /> </p>
 
 
 
