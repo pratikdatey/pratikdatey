@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Heyy! Nice to see you.</h1>
 <h1 align="center">I'm Pratik Datey.</h1>
 
-<h3 align="center">As a Data Scientist with 3+ years of experience, my passion lies in utilizing data to drive business value and innovation. I strive to continuously improve my skills in Data Analytics, Machine Learning, and Artificial Intelligence to deliver the best possible results for the organization.</h3>
+<h3 align="center">Highly skilled and result-driven Data Scientist with over 4 years of experience in Machine Learning, AI, and Data Analytics. Adept at developing and deploying innovative solutions to drive user engagement, enhance customer conversion, and boost revenue. Demonstrated expertise in building predictive models, designing recommendation systems, and crafting actionable dashboards. Proficient in Python, MySQL, and advanced machine learning techniques such as Generative AI, NLP, and deep learning. Committed to transforming data into strategic business insights and achieving measurable business impact.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikdatey&label=Profile%20views&color=0e75b6&style=flat" alt="pratikdatey" /> </p>
 
